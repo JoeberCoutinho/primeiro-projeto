@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(23, 22, 22);
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+h1, h2, p, li {
+    color: white;
+}
+.info {
+    margin-bottom: 15px;
+}
+.experience {
+    margin-top: 10px;
+}
